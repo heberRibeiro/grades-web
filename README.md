@@ -1,3 +1,18 @@
+# Grades-Web
+This project manages student information regarding grades.
+
+## Home Screen
+![](/assets/home_screen.png)
+
+## Student Detail
+![](/assets/student_detail.png)
+
+## Student Insertion Screen
+![](/assets/student_insertion_screen.png)
+
+## Student Update And Deletion Screen
+![](/assets/student_update_and_deletion_screen.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
